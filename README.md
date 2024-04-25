@@ -52,5 +52,5 @@ This is a movie review site built with Vue.js as the frontend framework and Word
 
 6. Open your browser and visit `http://localhost:8080` to see the movie review site in action.
 
-# Live Demo
+# Live Demo 
 https://movie-review-site-frontend.vercel.app/
