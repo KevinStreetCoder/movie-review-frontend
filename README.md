@@ -42,6 +42,10 @@ This is a movie review site built with Vue.js as the frontend framework and Word
 - WordPress: A flexible and powerful content management system (CMS) used as a headless CMS to store and manage movie review data.
 - WordPress REST API: Provides a RESTful API for accessing and manipulating WordPress content.
 
+**Hosting**:
+  - Frontend: vercel
+	- backend: pantheon
+	
 ## Installation
 
 1. Clone the repository: git clone https://github.com/CodestarJt35/Movie-Review-Site-Frontend
