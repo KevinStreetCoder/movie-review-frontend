@@ -1,7 +1,7 @@
 <template>
     <div class="app">
         <!-- Navigation Panel -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <!--<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <router-link to="/" class="navbar-brand d-flex align-items-center">
                     <img src="https://hondensteps.nl/wp-content/uploads/Review-logo.png"
@@ -35,7 +35,7 @@
                     </ul>
                 </div>
             </div>
-        </nav>
+        </nav>-->
 
         <div class="container">
             <div class="row justify-content-center">
@@ -75,9 +75,9 @@
         </div>
 
         <!-- Footer -->
-        <footer class="footer">
+        <!--<footer class="footer">
             <p>&copy; 2024 Review Site. All rights reserved.</p>
-        </footer>
+        </footer>-->
     </div>
 </template>
 <script>

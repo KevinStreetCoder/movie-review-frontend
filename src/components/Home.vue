@@ -1,7 +1,7 @@
 <template>
     <div class="app dark-theme">
         <!-- Navigation Panel -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <!--<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <router-link to="/" class="navbar-brand d-flex align-items-center">
                     <img src="https://hondensteps.nl/wp-content/uploads/Review-logo.png"
@@ -35,8 +35,7 @@
                     </ul>
                 </div>
             </div>
-        </nav>
-
+        </nav>-->
         <!-- Search Functionality -->
         <div class="search-container">
             <div class="search-box">
@@ -81,13 +80,13 @@
         </div>
 
         <!-- Footer -->
-        <footer class="footer bg-dark py-3">
+        <!--<footer class="footer bg-dark py-3">
             <div class="container-fluid">
                 <p class="text-center text-white1 mb-0">
                     &copy; 2024 Review Site. All rights reserved.
                 </p>
             </div>
-        </footer>
+        </footer>-->
     </div>
 </template>
 
